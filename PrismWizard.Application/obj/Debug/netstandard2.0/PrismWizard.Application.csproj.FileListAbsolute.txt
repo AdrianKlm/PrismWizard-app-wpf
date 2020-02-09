@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\bin\Debug\netstandard2.0\PrismWizard.Application.deps.json
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\bin\Debug\netstandard2.0\PrismWizard.Application.dll
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\bin\Debug\netstandard2.0\PrismWizard.Application.pdb
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\obj\Debug\netstandard2.0\PrismWizard.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\obj\Debug\netstandard2.0\PrismWizard.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\obj\Debug\netstandard2.0\PrismWizard.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\obj\Debug\netstandard2.0\PrismWizard.Application.dll
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\obj\Debug\netstandard2.0\PrismWizard.Application.pdb
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\bin\Debug\netstandard2.0\PrismWizard.Core.dll
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\bin\Debug\netstandard2.0\PrismWizard.Core.pdb
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\obj\Debug\netstandard2.0\PrismWizard.Application.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Application\obj\Debug\netstandard2.0\PrismWizard.Application.csproj.CopyComplete

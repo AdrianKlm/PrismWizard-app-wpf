@@ -1,0 +1,18 @@
+﻿<Window x:Class="PrismWizard.WPFClient.Views.DashBoardView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:prism="http://prismlibrary.com/"
+        xmlns:local="clr-namespace:PrismWizard.WPFClient"
+        xmlns:App="clr-namespace:PrismWizard.Application.ViewModels;assembly=PrismWizard.Application"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        mc:Ignorable="d"
+        d:DataContext="{x:Type App:DashBoardViewModel}"
+        Title="DashBoardView" Height="720" Width="1280">
+    <Grid>      
+        <ContentControl prism:RegionManager.RegionName="ContentRegion" Margin="10" />
+        <Button Height="25" Width="120" HorizontalAlignment="Right" VerticalAlignment="Bottom" Content="Start" 
+                Command="{Binding StartCommand}"/>
+    </Grid>
+</Window>

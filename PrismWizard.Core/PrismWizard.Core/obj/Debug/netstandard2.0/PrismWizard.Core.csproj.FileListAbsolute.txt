@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Core\PrismWizard.Core\bin\Debug\netstandard2.0\PrismWizard.Core.deps.json
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Core\PrismWizard.Core\bin\Debug\netstandard2.0\PrismWizard.Core.dll
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Core\PrismWizard.Core\obj\Debug\netstandard2.0\PrismWizard.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Core\PrismWizard.Core\obj\Debug\netstandard2.0\PrismWizard.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Core\PrismWizard.Core\bin\Debug\netstandard2.0\PrismWizard.Core.pdb
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Core\PrismWizard.Core\obj\Debug\netstandard2.0\PrismWizard.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Core\PrismWizard.Core\obj\Debug\netstandard2.0\PrismWizard.Core.dll
+C:\Users\Admin\source\repos\PrismWizard\PrismWizard.Core\PrismWizard.Core\obj\Debug\netstandard2.0\PrismWizard.Core.pdb
